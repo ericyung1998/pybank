@@ -1,6 +1,6 @@
 # pybank
 
-ISOM3400 (Python Programming for Business Analytics): Assignment 1
+ISOM3400 (Python Programming for Business Analytics): Project 1
 - ATM Python application that includes login, cash withdraw, transfers, balance checking, and currency exchange functions
 
 <br>
